@@ -1,6 +1,6 @@
 ## Welcome to Ethan Reynolds ECS Portfolio
 
-! [Typing Test] (https://github.com/Ereynolds28/ecsportfolio/blob/gh-pages/images/Screen%20Shot%202020-08-26%20at%201.46.13%20PM.png?raw=true)
+![Typing Test](https://github.com/Ereynolds28/ecsportfolio/blob/gh-pages/images/Screen%20Shot%202020-08-26%20at%201.46.13%20PM.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/Ereynolds28/ecsportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
